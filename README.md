@@ -15,7 +15,7 @@ My journey in the Google Cybersecurity course has led me to develop a passion fo
 | Vulnerability Assessment Report               | [![Google Docs](https://www.gstatic.com/images/branding/product/2x/docs_64dp.png)](https://docs.google.com/document/d/1cAHx6PLWNUqhkg3vHlbGha1eLWzpWh9sJPAAKUvRGI8/edit?usp=sharing&resourcekey=0-1T1BLvJttjFr_6S8u2LqEA)
 | Incident Report Analysis                      | [![Google Docs](https://www.gstatic.com/images/branding/product/2x/docs_64dp.png)](https://docs.google.com/document/d/1biNmMWiIqJ-kL8FNQSKGPr_eYi5Kdy-GG7FPWelYTwk/edit?usp=sharing&resourcekey=0-20nr-fxNuxBssJm4ZY0n8w)
 | Applying Filters To SQL Queries               | [![Google Docs](https://www.gstatic.com/images/branding/product/2x/docs_64dp.png)](https://google.com">https://docs.google.com/document/d/1Vt9S9OjWQ8ByCSv2vyectS7SGoXH-sTO29ofFlBbzqY/edit?usp=sharing)
-| File Permissions in Linux                     | [![Google Docs](https://www.gstatic.com/images/branding/product/2x/docs_64dp.png)](https://google.com">https://docs.google.com/document/d/1PkYkVrL_bb7Vo-8oVFu157qrFPRObWcctOJg6WnhpgU/edit?usp=sharing&resourcekey=0-AFu_wZrm-c5SqoSU9aisuw)
+| File Permissions in Linux                     |  <a href="https://github.com/Dbeecarter01/Linux-File-Permission-Lab
 | Programming Language e.g Python, SQL, Linux Line Command
 | Framewwork and Controls e.g NIST CSF, CIA triad model
 | Security Mindset
